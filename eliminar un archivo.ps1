@@ -1,0 +1,1 @@
+﻿emove-Item "$env:RafaelAguadoDuque\Desktop\prueba.txt
